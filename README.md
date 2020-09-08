@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently at teccart
 - 🌱 I’m currently learning 
-   -android
-   -mern
-   -.net
+   - android
+   - mern
+   - .net
 - 📫 How to reach me: <a href="mailto:emond.bryan22@outlook.com">emond.bryan22@outlook.com</a>
 
 <!--
