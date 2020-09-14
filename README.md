@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning 
    - android
    - mern
+   - mean
    - .net
 - 📫 How to reach me: <a href="mailto:emond.bryan22@outlook.com">emond.bryan22@outlook.com</a>
 
