@@ -1,11 +1,8 @@
 <h1>Bryan Emond Blais</h1>
 
-- 🔭 I’m currently at teccart
+- 🔭 I’m currently searching for a part time job
 - 🌱 I’m currently learning 
-   - android
-   - mern
-   - mean
-   - .net
+   - React
 - 📫 How to reach me: <a href="mailto:emond.bryan22@outlook.com">emond.bryan22@outlook.com</a>
 
 <!--
