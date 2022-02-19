@@ -2,8 +2,10 @@
 
 - 🔭 I’m currently searching for a job
 - 🌱 I’m currently learning 
-   - ReactJS
-   - React Native
+   - Flask
+   - c++
+   - networking
+   - sql
 - 📫 How to reach me: <a href="mailto:emond.bryan22@outlook.com">emond.bryan22@outlook.com</a>
 
 <!--
