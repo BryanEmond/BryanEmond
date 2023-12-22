@@ -1,7 +1,6 @@
 <h1>Bryan Emond Blais</h1>
 
-- 🔭 I’m in university
-- 💻 I'm working with React and React-native 
+- 🔭 I’m in university 
 - 🌱 I’m currently learning
      - Rust
 
